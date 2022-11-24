@@ -1,1 +1,1 @@
-# Object-Detection
+#  CIFAR-10 Image Classification
